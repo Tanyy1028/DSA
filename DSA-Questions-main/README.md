@@ -148,7 +148,7 @@ node Q-1.js
 
 # 👨‍💻 Author
 
-## Nikunj Rana
+## Patil Tanmay
 
 - MERN Stack Developer
 - JavaScript Enthusiast
